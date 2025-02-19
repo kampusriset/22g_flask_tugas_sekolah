@@ -10,10 +10,10 @@
 ![flowchart](https://github.com/user-attachments/assets/e9b79aa1-32be-4348-85fc-14b92f3393da)
 
 # Perkenalan Team
-1. Dyah Putri A
-2. Dina Eka F
-3. Fachriza U
-4. Uswatun K
+1. Dyah Putri Anggraini
+2. Dina Eka Fitriani
+3. Fachriza Ulfah
+4. Uswatun Khasanah
 
 # Link Video Dokumentasi
-Anda daoat menonton video dokumentasi Aplikasi memlaui tautan berikut 
+Anda dapat menonton video dokumentasi Aplikasi memlaui tautan berikut 
