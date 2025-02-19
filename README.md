@@ -16,4 +16,4 @@
 4. Uswatun Khasanah
 
 # Link Video Dokumentasi
-Anda dapat menonton video dokumentasi Aplikasi memlaui tautan berikut 
+Anda dapat menonton video dokumentasi Aplikasi memlaui tautan berikut https://youtu.be/co0UTU-1aWg?si=iXwRHY6BKhno16G9
